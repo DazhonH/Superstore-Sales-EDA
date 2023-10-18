@@ -10,3 +10,5 @@ Exploratory data analysis utilizing Python to clean and visualize the data. Once
 
 * To view dataset from Kaggle view here: [Kaggle Dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
 
+* Link to [My kaggle Workbook](https://www.kaggle.com/code/dazhonhunt/superstore-eda-analysis)
+
